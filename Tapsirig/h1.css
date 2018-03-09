@@ -1,0 +1,155 @@
+{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    }
+    a{
+        text-decoration: none;
+     }
+      li{
+          list-style-type: none;
+      }
+
+.div.container{
+    width: 90px;
+    margin: auto;
+}
+div.clearfix{
+    clear: both;
+}
+/* Nav */
+nav{
+    height: 33px;
+    margin-top: 1%;
+}
+nav .broklayn{
+    width: 50%;
+    float: left;
+}
+nav .menu{
+    width: 50%;
+    float: left;
+}
+nav .menu li{
+   
+    float: left;
+}
+nav .menu li a{
+    
+     padding: 20px;
+     text-transform: uppercase;
+     font-size: 0.6em;
+ }
+ nav .menu li a:hover{
+     color: green;
+     font-size: 5px;
+     transition: 1s;
+     background-color: green;
+ }
+ /* End Nav */
+
+
+ /* Header */
+ div .Header {
+     height: 400px;
+     background-image: url("k.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+ }
+ div .container{
+     margin-top: 10px;
+    height: 400px;
+    background-image: url("k.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+  .Header h1{
+      font-size: 60px;
+      color: white;
+      margin-left: 100px;
+  }
+  .Header span{
+      color: orangered;
+  }
+  .Header h2{
+      font-size: 25px;
+      color: white;
+      padding-left: 100px;
+      padding-top: 10px
+  }
+  /* Test1 */
+  .Test1{
+    margin-top: 50px;
+    width: 30%;
+  }
+  .Foot .Ferahim{
+    width: 90%;
+    padding-bottom: 50px;
+    color:rgb(150, 148, 148);
+}
+.Test h3{
+    color: black;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+
+}
+.Test1 .xana1{
+    width: 30px;
+    border-bottom: 2px solid orange;
+}
+.Foot h6{
+    font-size: 15px;
+    width: 240px;
+    margin-top: 20px;
+}
+.Test1 h5{
+    font-size: 15px;
+    width: 240px;
+    margin-top: 20px;
+}
+.Test1{
+    float: left;
+}
+.xana2{
+    margin-top: 90px;
+    color: orange;
+    font-size: 0.8em;
+    float: left;
+    width: 70%;
+
+}
+.xana2 h2{
+    color: black;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+}
+.xana2 .Mobile{
+    float: left;
+    margin: 0% 10%;
+    
+}
+.xana2 i{
+    padding-left: 50px;
+    padding-bottom: 40px;
+}
+.xana2 .Apps{
+    float: left;
+    margin: 0% 10%;
+}
+.xana2 .cloud{
+    float: left;
+    margin: 0% 10%;
+}
+.xana2 .cloud h2{
+    padding-left: 25px;
+}
+/* End Test1 */
+
+
+
+
+
+  
